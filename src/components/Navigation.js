@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 const Navigation = () => {
   return (
-    <div class="sidebar">
+    <div className="sidebar">
       <div className="id">
         <div className="idContent">
           <img src="./media/id-Ka.jpg" alt="profil-pic" />
@@ -51,10 +51,10 @@ const Navigation = () => {
 	  <div className="socialNetwork">
 		<ul>
 			<li>
-				<a href="https://www.linkedin.com/in/karine-nerhot-632a58110/" target="blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a>
+				<a href="https://www.linkedin.com/in/karine-nerhot-632a58110/" target="blank" rel="noopener noreferrer"><i className="fa-brands fa-linkedin"></i></a>
 			</li>
 			<li>
-				<a href="https://github.com/HysteriaKa" target="blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a>
+				<a href="https://github.com/HysteriaKa" target="blank" rel="noopener noreferrer"><i className="fa-brands fa-github"></i></a>
 			</li>
 		</ul>
 		<div className="signature">
