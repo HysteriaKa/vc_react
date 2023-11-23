@@ -4,13 +4,13 @@ $font-1: 'Nova Round', cursive;
 $font-2: 'Dosis', sans-serif;
 $font-3: 'Josefin Sans', serif;
 
-$color-1: #2a1d52;
-$color-2: #6C77F4;
-$color-3: rgb(99, 164, 233);
-$color-4: #4FEDD2;
-$color-5: #36D0EA;
-$white: #ddd;
-$black: #333;
+$color-1: #0b0a0f;
+$color-2: #27272c;
+$color-3: rgb(101, 30, 97);
+$color-4: rgb(237, 79, 229);
+$color-5: #8c818c;
+$white: #f2eeee;
+$black: #585353;
 
 $borderRadius: 25px;
 $shadow: 0 1px 3px #333;
@@ -59,4 +59,14 @@ a:visited {
   @media screen and (max-width: 850px){
     margin-left: 0 !important;
   }
+
 }
+.pic{
+	width: 50%;
+  }
+  .special{
+	background: #151139;
+background: -moz-linear-gradient(left, #151139 0%, #3E11A4 61%, #7B236D 100%);
+background: -webkit-linear-gradient(left, #151139 0%, #3E11A4 61%, #7B236D 100%);
+background: linear-gradient(to right, #151139 0%, #3E11A4 61%, #7B236D 100%);
+  }

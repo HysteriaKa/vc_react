@@ -31,7 +31,7 @@ const Contact = () => {
               </li>
             </ul>
           </div>
-		  <div className="socialNetwork">
+		  <div className="socialNetwork special">
 			<ul>
 			<a href="https://www.linkedin.com/in/karine-nerhot-632a58110/" target="blank" rel="noopener noreferrer">
 			<h4>LinkedIn</h4>
