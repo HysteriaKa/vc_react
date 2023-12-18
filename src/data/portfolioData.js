@@ -29,28 +29,28 @@ export const portfolioData = [
 	{
 	  id: 4,
 	  name: 'ksteam.fr',
-	  languages: ['javascript','php','react'],
-	  languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
-	  source: 'http://www.github.com/HysteriaKa',
-	  info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-	  picture: './media/dash1.png'
+	  languages: ['css'],
+	  languagesIcons: ['fab fa-css3-alt'],
+	  source: 'http://www.ksrteam.fr',
+	  info: 'Site vitrine avec thème Boostrap.',
+	  picture: './media/ksteam.png'
 	},
 	{
 	  id: 5,
 	  name: 'dashboard.com',
 	  languages: ['javascript','css'],
-	  languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
+	  languagesIcons: ['fab fa-js', 'fab fa-css3-alt','symfony'],
 	  source: 'http://www.github.com',
-	  info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
+	  info: 'Application regroupant gesttion  immobilière - Gestion de chantiers - Trésorerie - Gestion de projets.',
 	  picture: './media/dash1.png'
 	},
 	{
 	  id: 6,
-	  name: 'test.io',
+	  name: 'cv React',
 	  languages: ['javascript','react', 'css'],
 	  languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
-	  source: 'http://www.github.com',
+	  source: 'https://cvreact.ksrteam.fr/',
 	  info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-	  picture: './media/spark1.png'
+	  picture: './media/photocvreact.png'
 	},
   ]
